@@ -9,5 +9,6 @@ extern "C" {
     #include "ccompiler/massert.h"
     #include "ccompiler/parser.h"
     #include "ccompiler/stringbuffer.h"
+    #include "ccompiler/strmap.h"
     #include "ccompiler/util.h"
 }
